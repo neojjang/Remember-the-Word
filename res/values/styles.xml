@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<style name="word_style">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:padding">3dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/word_text</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/purple_gradient</item>
+    </style>
+	
+	<style name="text_separator_style">
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:layout_width">fill_parent</item>
+	    <item name="android:paddingTop">0dp</item>
+	    <item name="android:paddingBottom">02dp</item>
+	    <item name="android:paddingLeft">6dp</item>
+	    <item name="android:layout_marginTop">2dp</item>
+	    <item name="android:layout_marginBottom">2dp</item>
+	    <item name="android:background">@drawable/purple_gradient</item>
+	    <item name="android:shadowColor">#111111</item>
+	    <item name="android:shadowRadius">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:textSize">@dimen/text_size_extreme_small</item>
+     </style>
+     
+</resources>

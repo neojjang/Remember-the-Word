@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_separator_gradient_start">#ff1f8ddc</color>
+    <color name="text_separator_gradient_end">#ff16aad6</color>
+    
+    <color name="word_text">#ffFFffFF</color>
+    <color name="word_part">#ff787878</color>
+    <color name="word_phonetic">#ff787878</color>
+    <color name="title_text">#ffFFffFF</color>
+
+    
+    
+</resources>
